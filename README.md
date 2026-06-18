@@ -18,7 +18,7 @@ Machine learning techniques are used to classify motor conditions into Healthy, 
 
 ## Hardware Used
 
-* STM32F767 Discovery Board
+* STM32 Nucleo-L476RG Development Board
 * LM35 Temperature Sensor
 * ACS712 Current Sensor
 * MPU6050 Vibration Sensor

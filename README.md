@@ -4,7 +4,7 @@ Low-Cost Multi-Sensor Fusion TinyML-Based Predictive Maintenance for Small-Scale
 
 ## Overview
 
-This project presents a low-cost predictive maintenance system for small-scale industrial motors using multi-sensor fusion and TinyML on an STM32 ARM Cortex-M7 microcontroller. The system continuously monitors motor health by collecting data from temperature, vibration, and current sensors.
+This project presents a low-cost predictive maintenance system for small-scale industrial motors using multi-sensor fusion and TinyML on an STM32 Nucleo-L476RG microcontroller. The system continuously monitors motor health by collecting data from temperature, vibration, and current sensors.
 
 Machine learning techniques are used to classify motor conditions into Healthy, Warning, and Fault states. The trained model is optimized and deployed on an STM32F767 Discovery board, enabling real-time inference directly on the edge device without requiring cloud connectivity.
 
